@@ -3,6 +3,9 @@
     margin: 0px;
 }
 
+body{
+    font-family: Poppins,  Actor, Adamina
+}
 /* header section */
 
 #header .links ul {
@@ -28,9 +31,17 @@
 
 }
 
-#header .links ul li button{
+#header .links ul li #btn1{
    background-color: yellow;
+   text-align: center;
+   font-size: 20px;
     
+}
+#header .links ul li #btn2{
+    background-color: black;
+    color: #FAFF00;
+    font-size: 18px;
+    text-align: center;
 }
 
 
@@ -43,3 +54,22 @@
 
 
 
+.head{
+    align-self: center;
+    padding-top: 200px;
+    margin-left: 70px;
+ 
+}
+.head h1{
+    font-size: 50px;
+    width: 45%;
+    color:  #FAFF00;
+    
+}
+
+.head p{
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    width: 40%;
+}
