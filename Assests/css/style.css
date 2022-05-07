@@ -207,6 +207,7 @@ h4{
 .contact{
     display: flex;
     justify-content: space-between;
+    margin-right: 210px;
 }
 
 .contact li{
@@ -242,7 +243,7 @@ h1 span{
 .contact .icons i{
 
     color: white;
-    padding-top: 90px;
+    padding-top: 1000px;
     justify-content: center;
     padding-right: 30px;
 }
