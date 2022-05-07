@@ -7,6 +7,14 @@ body{
     font-family: Poppins,  Actor, Adamina
 }
 /* header section */
+#header{
+    background-image: url("/Assests/images/moving.png");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+
 
 #header .links ul {
     
@@ -45,15 +53,6 @@ body{
 }
 
 
-#header{
-    background-image: url("/Assests/images/moving.png");
-    background-size: cover;
-    height: 100vh;
-    background-repeat: no-repeat;
-}
-
-
-
 .head{
     align-self: center;
     padding-top: 200px;
@@ -70,6 +69,6 @@ body{
 .head p{
     color: white;
     font-size: 30px;
-    padding-top: 50px;
+    padding-top: 80px;
     width: 40%;
 }
