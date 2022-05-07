@@ -120,3 +120,55 @@ body{
     margin-bottom: 10px;
      stroke: #FAFF00;
 }
+
+
+/* Movers Section */
+#secmovers{
+    margin-top: 100px;
+}
+.row{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: none;
+}
+.row .column img{
+    height: 90%;
+    width: 60%;
+    
+}
+
+.row .column table{
+    width: 60%;
+    border:1px solid black;
+
+}
+ 
+.row .column table th{
+    border-right: 1px solid black;
+}
+
+.row .column i{
+    padding: 50px;
+
+}
+
+
+
+/* Contacts us Section */
+
+#contactus{
+
+    background-color: #050505;
+    margin-top: 100px;
+    
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact li{
+
+    padding-bottom: 20px;
+}
