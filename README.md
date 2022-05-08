@@ -1,7 +1,7 @@
 # Quick Movers Website
  ## By Valentine Maiyo
 ## Screenshot
- ![image](./Assests/images/Screenshot%20from%202022-05-08%2023-05-38.png)
+ ![image](./Assests/images/new.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
