@@ -12,15 +12,15 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This is a web application for Quick Movers that shows types of services they provide as well as some of the properties they are selling.</p>
+ <p>The Quick Movers website is intended to showcase the services that they provide. You may look at some of their top movers, as well as look at some of their recently sold houses and show interest by filling out a form</p>
 
 
 ## Features
 As a user of the application,you will be able to :
 1. View top movers
 2. Read More About The Company
-3.View the Houses  that are being sold
-4.Fill a form incase they have interest in one of the properties
+3. View the Houses  that are being sold
+4. Fill a form incase they have interest in one of the properties
 
 [Go Back to the top](#)
 
@@ -43,7 +43,7 @@ https://maiyoj.github.io/Quick-Movers-Websites/
 
 [Go Back to the top]
 ## Known Bugs
-*There are currently no bugs
+* There are currently no bugs
 ## Licence
 MIT License
 
