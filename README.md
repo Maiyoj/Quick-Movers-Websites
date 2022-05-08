@@ -18,7 +18,7 @@
 As a user of the application,you will be able to :
 1. 
 1. 
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#)
 
  ###  Requirements
  * Access to  a computer or any other garget
