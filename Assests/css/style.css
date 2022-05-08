@@ -115,8 +115,8 @@ hr{
     color: #FAFF00;
     margin-top: 40px;
     font-size: 20px;
-    padding: 10px;
-    border-radius: 12px;
+    padding: 20px;
+    border-radius:  0px 15px 0px 0px;
 
 }
 
@@ -236,7 +236,7 @@ h1 span{
     font-size: 50px;
     margin-left: 250px;
     padding-top: 80px;
-    padding-bottom: 20px;
+    padding-bottom: 80px;
 }
   .contact h4{
     color: white;
@@ -276,11 +276,13 @@ ul li a{
 .contact  .icons {
     padding-bottom: 90px;
     
+    
 
 }
 
 .contact  .icons i{
     padding-right: 20px;
     color: white;
+    
 
 }
