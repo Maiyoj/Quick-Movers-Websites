@@ -202,3 +202,25 @@ table, tr, th:nth-child(3){
 .para p{
     margin-top: 20px;
 }
+
+/* feature */
+
+#features{
+    background-color: white;
+    margin-left: 250px;
+    width:39%;
+    margin-top: 20px;
+    border-radius: 2%;
+}
+.feature{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+#features h4{
+    padding: 20px;
+}
+
+.feature  ul li{
+    padding: 10px;
+}
