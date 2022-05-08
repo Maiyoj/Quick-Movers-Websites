@@ -40,7 +40,6 @@ https://maiyoj.github.io/Quick-Movers-Websites/
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
 
-[Go Back to the top]
 ## Known Bugs
 * There are currently no bugs
 ## Licence
