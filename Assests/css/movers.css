@@ -235,7 +235,13 @@ table, tr, th:nth-child(3){
 /* listings */
 #listings{
     margin-left: 250px;
-    margin-top: 20px;
+    margin-top: 50px;
+}
+
+#listings h1{
+    padding: 80px;
+    font-size: 40px;
+
 }
 
 .list{
@@ -270,3 +276,28 @@ table, tr, th:nth-child(3){
 .list .last table{
     width: 50%;
 }
+
+.list h4{
+    padding: 20px;
+}
+
+
+
+/* Contact Us */
+
+#contacts{
+   
+    background-color: #050505;
+    color: white;
+    margin-top: 20px;
+    
+}
+
+.contact{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 400px;
+}
+
