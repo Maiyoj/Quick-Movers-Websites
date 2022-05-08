@@ -1,3 +1,4 @@
+
 *{
     padding: 0px;
     margin: 0px;
@@ -5,8 +6,11 @@
 
 body{
     background-color: lightgray;
+    font-family: 'Poppins',  'Actor', 'Adamina';
       
 }
+
+
 /* navbar */
 nav{
     background-color: #050505;
@@ -14,8 +18,7 @@ nav{
     padding-right: 110px;
     padding-left: 100px;
     padding-top: 40px;
- 
-    
+  
 }
 .navbar{
     width: 80%;
@@ -24,7 +27,6 @@ nav{
   .navbar .links ul{
  
     float: right;
-   
    
 }
 
@@ -101,9 +103,7 @@ i{
      padding: 20px;
      width: 80%;
      border-radius: 3%;
-    
-    
-    
+
  }
  .form textarea{
     margin-bottom: 20px;

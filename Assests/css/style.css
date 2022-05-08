@@ -1,11 +1,13 @@
-*{
+ *{
     padding: 0px;
     margin: 0px;
-}
+ }
 
-body{
+ body{
+    font-family: 'Poppins',  'Actor', 'Adamina';
+ }
 
-}
+
 /* header section */
 #header{
     background-image: url("../images/moving.png");
@@ -14,14 +16,11 @@ body{
     background-repeat: no-repeat;
 }
 
-
-
 #header .links ul {
     
     float: right;
     margin-right: 150px;
 }
-
 
 #header .links ul li{
     display: inline-block;
@@ -32,7 +31,6 @@ body{
    
 }
 
- 
 #header .links ul li a{
     color: white;
     text-decoration: none;
@@ -52,7 +50,6 @@ body{
     text-align: center;
     padding: 0px 10px;
 }
-
 
 .head{
     align-self: center;
@@ -74,8 +71,8 @@ body{
     width: 30%;
 }
 
-/* About Us Section */
 
+/* About Us Section */
 .about{
     display: flex;
     padding-top: 100px;
@@ -125,6 +122,7 @@ hr{
     margin-bottom: 10px;
 
 }
+
 
 
 /* Movers Section */
@@ -214,8 +212,6 @@ h4{
 #contactus{
 
     background-color: #050505;
-   
-    
  
 }
 .contact{
@@ -245,7 +241,6 @@ h1 span{
 }
 
 
-
 ul li{
     padding: 10px;
 }
@@ -257,7 +252,7 @@ ul li a{
 }
 
 .contact ul{
-    margin-right: 80px;
+    margin-right: 100px;
 }
 
 .contact ul li{
@@ -275,7 +270,6 @@ ul li a{
 
 .contact  .icons {
     padding-bottom: 90px;
-    
     
 
 }
