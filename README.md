@@ -1,4 +1,4 @@
-# Quick Movers WEbsite
+# Quick Movers Website
  ## By Valentine Maiyo
 ## Screenshot
  ![image](./assets/)

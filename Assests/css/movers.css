@@ -36,11 +36,11 @@ nav{
 .links ul li a{
   list-style-type: none;
   text-decoration: none;
-  color: white;
+  color: white; 
 }
 
 nav .links ul li #btn1{
-    background: yellow;
+    background: #FFAC12;
     color:#050505;
     padding: 20px;
     width: 200%;
@@ -63,10 +63,6 @@ nav .links ul li #btn1{
 
  /* header*/
 
-
-   #header{
-      
-   }
  .head{
      width: 80%;
      padding-left: 250px;
@@ -244,8 +240,9 @@ table, tr, th:nth-child(5){
    
 }
 
-.feature  ul li:before{
-    content: '✓'; 
+.feature  ul li i{
+    
+    color: #FFAC12;
    
 }
 
@@ -334,11 +331,11 @@ table, tr, th:nth-child(5){
 }
 .heading h1 span{
     font-size: 40px;
-    color: yellow;
+    color: #FAFF00;
     padding-left: 20px;
 }
 .heading  button{
-    background-color: yellow;
+    background-color:#FFAC12;
     color:#050505;
     width: 20%;
     padding: 30px;
