@@ -14,15 +14,17 @@ nav{
     padding-right: 110px;
     padding-left: 100px;
     padding-top: 40px;
+ 
     
+}
+.navbar{
+    width: 80%;
 }
 
 .links, ul{
  
     float: right;
-    padding-right: 60px;
-    
-    
+ 
 }
 
 .links ul li{
@@ -39,7 +41,9 @@ nav{
 nav .links ul li #btn1{
     background: yellow;
     color:#050505;
-    padding: 10px;
+    padding: 20px;
+    width: 200%;
+    border-radius: 5%;
 }
 
  nav .body{
@@ -329,19 +333,19 @@ table, tr, th:nth-child(3){
 
 
 }
-ul{
-    margin-right: 40px;
+.contact ul{
+    margin-right: 60px;
 }
 
-ul li{
+.contact ul li{
     padding: 15px;
     list-style: none;
 }
-ul li a{
+ .contact ul li a{
     text-decoration: none;
     color: white;
 }
 
-.heading h4{
+  .contact .heading h4{
     text-align: center;
 }
