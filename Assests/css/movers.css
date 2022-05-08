@@ -282,8 +282,8 @@ table, tr, th:nth-child(5){
 
     width:100%
 }
-.list .last{
-    width: 45%;
+.list #last{
+    width: 15.5%;
 
 }
 
@@ -321,7 +321,7 @@ table, tr, th:nth-child(5){
     display: flex;
     justify-content: space-between;
     padding-top: 60px;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
     margin-left: 250px;
     margin-right: 200px;
 }
@@ -360,10 +360,6 @@ table, tr, th:nth-child(5){
     text-align: center;
 }
 
-.contact  .icons {
-    padding-bottom: 90px;
-
-}
 
 .contact  .icons i{
     padding-right: 20px;
