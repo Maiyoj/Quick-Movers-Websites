@@ -336,7 +336,7 @@ table, tr, th:nth-child(5){
     display: flex;
     justify-content: space-between;
     padding-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
     margin-left: 250px;
     margin-right: 200px;
 }
@@ -353,8 +353,9 @@ table, tr, th:nth-child(5){
     background-color:#FFAC12;
     color:#050505;
     width: 20%;
-    padding: 30px;
-    border-radius: 6%;
+    padding: 20px;
+    border-radius:  0px 15px 0px 0px;
+
 
 
 }
