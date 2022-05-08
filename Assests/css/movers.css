@@ -144,3 +144,39 @@ nav .links ul li #btn1{
     height: 10%;
     padding-right: 15px;
 }
+
+/* section details */
+   #details{
+       width: 39%;
+       margin-left: 250px;
+       background-color: white;
+       margin-top: 20px;
+       border-radius: 3%;
+   }
+
+   table{
+    width: 100%;
+   
+}
+ 
+table, tr, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+table, tr, th:nth-child(1){
+    border-left: none;
+    border-bottom: none;
+}
+table, tr, th:nth-child(2){
+    border-bottom: none;
+}
+table, tr, th:nth-child(3){
+    border-bottom: none;
+    border-right: none;
+}
+
+ .detail h4{
+ 
+    padding: 40px;
+}
