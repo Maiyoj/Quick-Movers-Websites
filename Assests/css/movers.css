@@ -72,3 +72,36 @@ nav .links ul li #btn1{
      width: 70%;
      height:100%;
  }
+
+ .form{
+     background-color: white;
+     border-radius: 2%;
+     height: 50%;
+    width: 50%;
+    align-items: center;
+    margin: 30px auto;
+ }
+ .form input{
+     margin-bottom: 20px;
+     margin-left: 20px;
+     padding: 20px;
+     width: 80%;
+    
+ }
+ .form textarea{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px;
+    width: 80%;
+}
+
+.form button{
+ 
+   margin-left: 20px;
+   padding: 20px;
+   width: 90%;
+   background-color:#050505;
+   color: white;
+   margin-bottom: 10px;
+   border-radius: 2%;
+}
