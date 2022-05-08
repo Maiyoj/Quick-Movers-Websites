@@ -21,10 +21,11 @@ nav{
     width: 80%;
 }
 
-.links, ul{
+  .navbar .links ul{
  
     float: right;
- 
+   
+   
 }
 
 .links ul li{
@@ -49,12 +50,13 @@ nav .links ul li #btn1{
  nav .body{
      display: flex;
      justify-content: space-between;
-     padding-top: 90px;
+     padding-top: 150px;
      padding-bottom: 10px;
      padding-left: 60px;
  }
- .ksh{
+  .body .ksh{
  
+
  }
 
  /* header*/

@@ -201,49 +201,51 @@ h4{
 #contactus{
 
     background-color: #050505;
-    margin-top: 100px;
-    height: 50vh;
+    margin-top: 20px;
+    
+ 
 }
 .contact{
     display: flex;
     justify-content: space-between;
-    margin-right: 210px;
+    margin-left: 250px;
+    padding-top: 100px;
+    margin-right: 220px;
+    align-items: center;
 }
 
-.contact li{
-
-    padding-bottom: 30px;
-   
-
-}
-.contact li a{
-    color: white;
-    text-decoration: none;
-}
-
-#contactus h1{
-    color: white;
-    font-size: 40px;
-    padding-left: 250px;
-    padding-bottom: 70px;
-    padding-top: 50px;
-}
 h1 span{
     color: #FAFF00;
 }
-.contact h4{
-    color: white;
-    align-items: flex-end;
-    padding-bottom: 10px;
-}
 
-.icons{
+ #contactus h1{
+  
+    color: white;
+    font-size: 50px;
     margin-left: 250px;
+    padding-top: 80px;
 }
-.contact .icons i{
-
+  .contact h4{
     color: white;
-    padding-top: 1000px;
-    justify-content: center;
-    padding-right: 30px;
+    
+  
+}
+
+.importantlinks{
+
+}
+
+ul li{
+    padding: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    list-style: none;
+    color:white;
+}
+.icons{
+  color: white;
+  align-items: center;
+ 
 }
