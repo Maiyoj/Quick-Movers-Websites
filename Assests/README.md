@@ -37,7 +37,7 @@ As a user of the application,you will be able to :
 * CSS - which was used to style the User Interface.
 [Go Back to the top]
 ## Known Bugs
-* Not responsive to all devices
+* Not responsive to all sizes of dvices
 ## Licence
 MIT License
 Copyright (c) [2022] [Valentine Maiyo]
