@@ -12,43 +12,53 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is a web application for Quick Movers that shows details about the services it offers,</p>
-[Go Back to the top](#)
+ <p>This is a web application for Quick Movers that shows types of services they provide as well as some of the properties they are selling.</p>
+
+
 ## Features
 As a user of the application,you will be able to :
-1. 
-1. 
+1. View top movers
+2. Read More About The Company
+3.View the Houses  that are being sold
+4.Fill a form incase they have interest in one of the properties
+
 [Go Back to the top](#)
 
  ###  Requirements
- * Access to  a computer or any other garget
+ * Access to  a laptop or a phone or a desktop computer
  * Access to internet
  ### Installation Process
- ****
+* Fork or Download the repo
+* Unzip the downloaded Folder
+* open the folder in an editor of choice 
+* run the index.html file
 
-* Unzip the downloaded files in a folder of choice.
-* Open the index file from the zipped file with any browser.
  ****
  [Go Back to the top](#)
 ### Live Link
-- Click this link to view the live application 
+https://maiyoj.github.io/Quick-Movers-Websites/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
+
 [Go Back to the top]
 ## Known Bugs
-* Not responsive to all sizes of dvices
+*There are currently no bugs
 ## Licence
 MIT License
-Copyright (c) [2022] [Valentine Maiyo]
+
+Copyright (c) 2022 Valentine Maiyo
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -58,4 +68,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#)
 ## Authors Info
+Email- maiyoj12@gmail.com
+
 
