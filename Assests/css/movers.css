@@ -231,3 +231,42 @@ table, tr, th:nth-child(3){
     content: '✓'; 
    
 }
+
+/* listings */
+#listings{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.list{
+    display: flex;
+    width: 80;
+}
+
+.list .column{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 2%;
+    height: 50%;
+}
+
+.list img{
+    width: 100%;
+   
+}
+
+.list table{
+
+    width:100%
+}
+.list .last{
+    width: 45%;
+
+}
+
+.list .last table{
+    width: 50%;
+}
