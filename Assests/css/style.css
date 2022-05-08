@@ -201,7 +201,7 @@ h4{
 #contactus{
 
     background-color: #050505;
-    margin-top: 20px;
+   
     
  
 }
@@ -209,7 +209,6 @@ h4{
     display: flex;
     justify-content: space-between;
     margin-left: 250px;
-    padding-top: 100px;
     margin-right: 220px;
     align-items: center;
 }
@@ -245,7 +244,13 @@ ul li a{
     color:white;
 }
 .icons{
-  color: white;
-  align-items: center;
+display: inline;
+   
+   
+}
+.icons svg{
  
+   padding-right: 20px;
+   display: inline-block;
+   
 }
