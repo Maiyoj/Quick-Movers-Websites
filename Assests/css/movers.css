@@ -223,4 +223,11 @@ table, tr, th:nth-child(3){
 
 .feature  ul li{
     padding: 10px;
+    list-style: none;
+   
+}
+
+.feature  ul li:before{
+    content: '✓'; 
+   
 }
