@@ -359,3 +359,13 @@ table, tr, th:nth-child(5){
   .contact .heading h4{
     text-align: center;
 }
+
+.contact  .icons {
+    padding-bottom: 90px;
+
+}
+
+.contact  .icons i{
+    padding-right: 20px;
+
+}
