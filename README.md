@@ -1,7 +1,7 @@
 # Quick Movers Website
  ## By Valentine Maiyo
 ## Screenshot
- ![image](./assets/)
+ ![image](./Assests/images/Screenshot%20from%202022-05-08%2023-05-38.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
@@ -20,9 +20,8 @@ As a user of the application,you will be able to :
 1. View top movers
 2. Read More About The Company
 3. View the Houses  that are being sold
-4. Fill a form incase they have interest in one of the properties
+4. Fill a form incase they have interest in one of the properties or services
 
-[Go Back to the top](#)
 
  ###  Requirements
  * Access to  a laptop or a phone or a desktop computer
