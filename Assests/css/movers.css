@@ -42,9 +42,14 @@ nav{
 nav .links ul li #btn1{
     background: #FFAC12;
     color:#050505;
-    padding: 20px;
-    width: 200%;
-    border-radius: 5%;
+    padding: 15px;
+    width: 180%;
+    border-radius:  0px 15px 0px 0px;
+
+}
+i{
+    color: white;
+  
 }
 
  nav .body{
@@ -79,17 +84,24 @@ nav .links ul li #btn1{
 
  .form{
      background-color: white;
-     border-radius: 2%;
+     border-radius: 3%;
      height: 50%;
     width: 70%;
     align-items: center;
-    margin-right: 200px
+    margin-right: 160px;
+    align-items: center;
+ }
+
+ .user p{
+     color:#FFAC12;
  }
  .form input{
      margin-bottom: 40px;
      margin-left: 20px;
      padding: 20px;
      width: 80%;
+     border-radius: 3%;
+    
     
     
  }
@@ -108,9 +120,12 @@ nav .links ul li #btn1{
    background-color:#050505;
    color: white;
    margin-bottom: 20px;
-   border-radius: 2%;
+   border-radius:  0px 15px 0px 0px;
 }
 
+.form i{
+    color: #FFAC12;
+}
 .form .user{
     background-color: whitesmoke;
     margin-left: 20px;
