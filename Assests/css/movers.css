@@ -61,7 +61,7 @@ nav .links ul li #btn1{
    }
  .head{
      width: 80%;
-     padding-left: 150px;
+     padding-left: 250px;
      padding-right: 160px;
      display: flex;
      margin-top: 30px;
@@ -69,7 +69,7 @@ nav .links ul li #btn1{
  }
 
  .head img{
-     width: 70%;
+     width:95%;
      height:100%;
  }
 
@@ -77,15 +77,16 @@ nav .links ul li #btn1{
      background-color: white;
      border-radius: 2%;
      height: 50%;
-    width: 50%;
+    width: 70%;
     align-items: center;
-    margin: 30px auto;
+    margin-right: 200px
  }
  .form input{
-     margin-bottom: 20px;
+     margin-bottom: 40px;
      margin-left: 20px;
      padding: 20px;
      width: 80%;
+    
     
  }
  .form textarea{
@@ -102,6 +103,26 @@ nav .links ul li #btn1{
    width: 90%;
    background-color:#050505;
    color: white;
-   margin-bottom: 10px;
+   margin-bottom: 20px;
    border-radius: 2%;
+}
+
+.form .user{
+    background-color: whitesmoke;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.form img{
+    height: 80%;
+    width: 80%;
+    border-radius: 50%;
+}
+.form .name{
+    margin-right:200px;
+    width: 180%;
 }
