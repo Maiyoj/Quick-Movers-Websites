@@ -13,6 +13,14 @@
  - [Authors Info](#Authors-Info)
  ## Description
 The Quick Movers website is intended to showcase the services that they provide. You may look at some of their top movers, as well as look at some of their recently sold houses and show interest by filling out a form.
+
+ ###  Features
+
+ * User can be able to view top movers
+ * Read more about the comany and their services
+ * view some properties that are sold
+ * Express interest in property being sold by filling a form
+
  ###  Requirements
  * Access to  a laptop or a phone or a desktop computer
  * Access to internet
