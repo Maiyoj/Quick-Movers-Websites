@@ -17,7 +17,7 @@ The Quick Movers website is intended to showcase the services that they provide.
  ###  Features
 
  * User can be able to view top movers
- * Read more about the comany and their services
+ * Read more about the company and their services
  * view some properties that are sold
  * Express interest in property being sold by filling a form
 
