@@ -6,12 +6,12 @@
 @media only screen and (max-width: 1430px) {
     form {
     
-      min-width: 100%
+      min-width: 40%
     }
 
     body{
         
-        min-width: 200%;
+    min-width:150%;
     }
   }
 
